@@ -13,3 +13,4 @@ def est_pangramme_2(phrase):
 
 print(est_pangramme_1(phrase))
 print(est_pangramme_2(phrase))
+
